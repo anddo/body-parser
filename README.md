@@ -1,4 +1,4 @@
-# body-parser
+# body-parser-dot
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
@@ -6,7 +6,7 @@
 [![Test Coverage][coveralls-image]][coveralls-url]
 [![Gratipay][gratipay-image]][gratipay-url]
 
-Node.js body parsing middleware.
+Node.js body parsing middleware,Forked from expressjs/body-parser.Added qs dot support.
 
 Parse incoming request bodies in a middleware before your handlers, available
 under the `req.body` property.

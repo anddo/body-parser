@@ -1,13 +1,13 @@
 {
-  "name": "body-parser",
-  "description": "Node.js body parsing middleware",
-  "version": "1.15.2",
+  "name": "body-parser-dot",
+  "description": "Node.js body parsing middleware,Forked from expressjs/body-parser.Added qs dot support",
+  "version": "0.0.1",
   "contributors": [
     "Douglas Christopher Wilson <doug@somethingdoug.com>",
     "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)"
   ],
   "license": "MIT",
-  "repository": "expressjs/body-parser",
+  "repository": "anddo/body-parser",
   "dependencies": {
     "bytes": "2.4.0",
     "content-type": "~1.0.2",
